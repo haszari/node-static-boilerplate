@@ -1,0 +1,9 @@
+{
+  "name": "PLACEHOLDER_PACKAGE_NAME",
+  "description": "PLACEHOLDER_PACKAGE_DESCRIPTION",
+  "version": "0.0.1",
+  "private": true,
+ "dependencies": {
+    "express": "4.3.1"
+  }
+}

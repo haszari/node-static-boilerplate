@@ -1,0 +1,10 @@
+CACHE MANIFEST
+# PLACEHOLDER_CACHE_MANIFEST_VERSION
+# note filename must be cache.manifest to work on iOS
+
+CACHE:
+index.html
+favicon.ico
+
+NETWORK:
+*
