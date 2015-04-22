@@ -1,0 +1,21 @@
+{
+  "name": "PLACEHOLDER_PACKAGE_NAME",
+  "version": "0.0.0",
+  "authors": [
+    "PLACEHOLDER <PLACEHOLDER@PLACEHOLDER.ORG>"
+  ],
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "~3.3.0",
+    "underscore": "~1.8.3",
+    "requirejs": "~2.1.17"
+  }
+}
